@@ -9,6 +9,9 @@ export default function Home() {
     <div>
       <div><Navbar /></div>
       <div><Carousel/></div>
+      <div className='m-3'><Title/></div>
+      <div><Title/></div>
+      <div><Title/></div>
       <div><Title/></div>
       <div><Footer /></div>
     </div>
