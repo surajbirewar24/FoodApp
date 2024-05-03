@@ -9,7 +9,7 @@ export default function Title() {
             className="card mt-3"
             style={{ width: "18rem", maxHeight: "360px" }}
           >
-            <img src="..." className="card-img-top" alt="..." />
+            <img src="https://media.istockphoto.com/id/629423010/photo/chilli-paneer-tikka-or-paneer-kabab.jpg?s=1024x1024&w=is&k=20&c=0DUhYqlFJYETQk7b0X04NpL9MHXSjwiacfvN8qrJAqI=" className="card-img-top" alt="..." />
             <div className="card-body">
               <h5 className="card-title">Card title</h5>
               <p className="card-text">
